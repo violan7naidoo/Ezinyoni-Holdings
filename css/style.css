@@ -1303,7 +1303,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-bottom: none !important;
 
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 2px) {
   .fh5co-nav-toggle {
     display: block;
   }
