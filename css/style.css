@@ -11,7 +11,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
@@ -64,7 +64,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -86,6 +86,8 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-nav .top-menu {
   padding: 28px 0;
+  font-family:'Roboto', 'Helvetica Neue', sans-serif;
+  
 }
 .fh5co-nav #fh5co-logo {
   font-size: 24px;
@@ -94,8 +96,7 @@ h1, h2, h3, h4, h5, h6, figure {
   text-transform: uppercase;
   font-weight: bold;
   font-weight: 700;
-  font-family: "Work Sans", Arial, sans-serif;
-  text-align:left;
+  font-family: "Roboto", Arial, sans-serif;
 }
 .fh5co-nav #fh5co-logo a span {
   color: #dcab00;
@@ -484,7 +485,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 40px;
   display: block;
   color: #dcab00;;
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
   width: 100%;
   font-weight: 400;
   margin-bottom: .3em;
@@ -1311,7 +1312,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 30px;
