@@ -1,16 +1,12 @@
 
-TITLE: 
-Law - 100% Fully Responsive Free HTML5 Bootstrap Template
+By Violan Naidoo
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
 
 
 CREDITS:
+
+Pictures
+https://unsplash.com/
 
 Bootstrap
 http://getbootstrap.com/
@@ -29,6 +25,7 @@ https://www.google.com/fonts/
 
 Icomoon
 https://icomoon.io/app/
+https://fontawesome.com/
 
 Respond JS
 https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
@@ -41,6 +38,9 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
 Owl Carousel
 http://www.owlcarousel.owlgraphic.com/
+
+Template: 
+Law - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 Flexslider
 http://flexslider.woothemes.com/
